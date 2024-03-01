@@ -1,0 +1,19 @@
+chance dependent
+
+Statistical Analysis : 
+i) Normality test
+ii) Reliability test
+iii)T -test, anova, chi-square
+iv) Correlation
+
+------------------------------------------------------------------
+1)male or female priority by chance
+2) which university getting chance more
+3) Cgpa gre toefl research workexperiece impact on ranking ....
+-----------------------------------------------------------------
+
+#Classification Algorithm on Chance
+-logis
+-Decision
+-SVM
+

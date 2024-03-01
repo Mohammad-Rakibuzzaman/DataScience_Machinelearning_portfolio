@@ -1,0 +1,11 @@
+3 types of methods...
+i)Univariate Selection
+ii)Feature Importance
+iii) Correlation Matrix with Heat MAP 
+iV) Shap
+
+
+Technique or score Functions: 
+1)Chi-Square 
+2) f_classif
+3)mutual_info_classif

@@ -1,0 +1,4 @@
+beaware from data leakage : 
+step: 
+1) Train Test Split then missing value fillup
+2)imputer and scaler before concat

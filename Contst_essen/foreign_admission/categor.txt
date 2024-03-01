@@ -1,0 +1,2 @@
+categ- 0 =female, 1= male
+effort =  fair= 0, Poor =1 , satis=2,Very good=3, excellent=4

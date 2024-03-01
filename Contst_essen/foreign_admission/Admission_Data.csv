@@ -1,0 +1,201 @@
+Gender,Undergraduate_University,Undergraduate_CGPA,GRE,IELTS_TOEFL,Subject_got_chance,Work_experience,Research,Effort,Ranking,Chance,work_position_before_admission
+Male,Bachelor of dental surgery,3.52,296,99,Food and Health Nutration,1,0,Satisfactory,5,1,Dental Assistant
+Male,Mawlana Bhashani Science and Technology University,3.67,303,81,Computer Science,0,1,Satisfactory,3,1,Lecturer
+Male,Rajshahi University of Engineering & Technology,3.82,309,98,Computer Science,1,1,Very good,6,1,Lecturer
+Female,Bangladesh University of Engineering and Technology,3.24,315,111,Computer Science,0,2,Fair,1,1,Lecturer
+Male,International Islamic University Chittagong,3.8,302,108,Chemistry ,0,6,Very good,4,1,Assistant Chemist
+Female,Bangladesh University of Engineering and Technology,3.93,302,104,Chemistry ,0,7,Excellent,1,1,Chemical Engineer
+Female,University of Dhaka,3.11,303,88,Physics ,0,0,Fair,5,1,Lecturer
+Female,University of Development Alternative,3.91,300,101,Bio Medical,1,7,Very good,3,1,Lecturer
+Male,University of Dhaka,3.94,302,93,Bio Medical,0,1,Satisfactory,6,1,Lecturer
+Male,University of Liberal Arts Bangladesh,3.16,165,93,Computer Science,0,0,Fair,6,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.89,325,114,Computer Science,1,5,Very good,1,1,Lecturer
+Male,Shahjalal University of Science and Technology ,3.11,302,114,Electrical Engineering,1,3,Satisfactory,2,1,Electronics and Communication Engineer
+Female,University of Dhaka,3.84,332,112,Computer Science,1,5,Very good,2,1,Lecturer
+Male,University of Science and Technology.,3.71,309,93,Computer Science,1,1,Fair,10,1,Lecturer
+Male, International Islamic University Chittagong,3.8,302,108,Chemistry ,0,6,Very good,4,1,Lecturer
+Male,Shahjalal University of Science and Technology ,3.57,314,114,Business Analytics,1,0,Fair,10,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,2.95,324,115,Measurement and Control Engineering,0,1,Fair,10,1,Lecturer
+Female,Bangladesh University of Engineering and Technology,3.32,316,105,Industrial Management and Systems Engineering,1,4,Satisfactory,3,1,Job
+Male,Pabna University of Science and Tech0logy.,3.71,325,93,Computer Science,1,1,Satisfactory,10,1,Software Engineer 
+Male,United International University,3.9,305,93,Computer Science,1,4,Satisfactory,4,1,Lecturer
+Female,Stamford University Bangladesh ,3.77,302,101,Bio Medical,1,5,Excellent,2,1,Research Associate 
+Male,Shahjalal University of Science and Technology ,3.5,309,103,Computer Science,1,3,Fair,10,1,Software Engineer 
+Male,Asia Pacific University Malaysia,3.31,302,101,Electrical Engineering,0,1,Satisfactory,10,1,Lecturer
+Male,University of Dhaka,3.66,321,97,Chemistry ,1,3,Very good,3,1,Lecturer
+Male,Jessore University of Science & Technology,3.44,302,93,Environmental Social Science,1,5,Very good,2,1,Research Associate 
+Male,Islamic University,3.52,302,114,Bio Medical,1,11,Excellent,3,1,Content Developer
+Male,Bangladesh University of Engineering and Technology,3.64,306,91,Geography,1,0,Satisfactory,8,1,Job
+Male,University of Liberal Arts Bangladesh,3.5,302,93,Computer Science,0,1,Satisfactory,6,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.07,311,106,Civil Engineering,1,1,Satisfactory,3,1,Structural Engineer
+Female,University of Dhaka,3.75,317,100,Computer Science,1,1,Excellent,1,1,"6-month internship, 6-month job"
+Male,Jahangirnagar University,3.32,302,93,Computer Science,1,1,Satisfactory,8,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.36,302,108,Materials Science,0,7,Satisfactory,4,1,Lecturer
+Male,Jahangirnagar University,3.32,310,99,Chemistry ,1,7,Very good,2,1,Job
+Female,Bangladesh University of Engineering and Technology,3.31,320,114,Civil Engineering,0,1,Fair,8,1,Lecturer
+Male,University of Dhaka,3.64,166,100,Computer Science,1,7,Excellent,1,1,Lecturer
+Female,Jagannath University,3.95,302,96,Computer Science,1,7,Excellent,2,1,Lecturer
+Male,University of Dhaka,3.77,302,99,Computer Science,1,3,Excellent,1,1,Software Engineer 
+Male,Bangladesh University of Engineering and Technology,3.1,317,103, Architecture,0,1,Excellent,1,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.23,313,97,Computer Science,1,2,Excellent,1,1,Job
+Male,Jahangirnagar University,3.52,320,99,Economics,1,1,Satisfactory,4,1,Junior Assistant Manager
+Male,Ahsanullah University of Science and Technology,3.788,301,108,Mechanical Engineering,1,1,Fair,6,1,Lecturer
+Female,Military Institute of Science and Technology,3.71,296,93,Mechanical Engineering,1,1,Satisfactory,5,1,Lecturer
+Male,Bangabandhu Sheikh Mujibur Rahman Agricultural University,3.32,312,101,Geography,1,0,Very good,4,1,Research Assistant
+Male,Noakhali Science and Technology University,3.3,311,100,Computer Science,0,2,Poor,10,1,Lecturer
+Male,University of Dhaka,3.13,302,90,Electrical Engineering,1,1,Satisfactory,5,1,Research Associate 
+Male,North South University,3.94,320,114,Civil Engineering,1,1,Satisfactory,5,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.54,301,114,Chemistry ,0,0,Very good,2,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.91,320,104,Informatics,1,1,Excellent,1,1,Software Engineer 
+Male,Shahjalal University of Science and Technology ,3.89,315,109,Food and Health Nutration,0,0,Poor,10,1,Lecturer
+Male, Pusan National University,3.78,317,109,Bio Medical,0,1,Excellent,3,1,Lecturer
+Male,Shahjalal University of Science and Technology ,3.37,297,101,Bio Medical,1,2,Satisfactory,6,1,Associate Scientist at Pharmaceuticals R&D
+Male,Ahsanullah University of Science and Technology,3.76,303,95,Mechanical Engineering,0,2,Satisfactory,5,1,Lecturer
+Male,University of Dhaka,3.8,322,100,Electrical Engineering,1,3,Excellent,1,1,Lecturer
+Female,Khulna University,3.5,302,101,Forestry,0,3,Very good,3,1,Lecturer
+Female,Mawlana Bhashani Science and Technology University,3.84,302,88,Computer Science,0,4,Excellent,2,1,Lecturer
+Female,Jagannath University,3.9,318,98,Statistics ,1,5,Excellent,2,1,Lecturer
+Male,University of Dhaka,3.56,323,118,Business Analytics,1,0,Excellent,1,1,Telecommunication Engineer
+Male,Khulna University of Engineering & Technology,2.93,302,93,Mechanical Engineering,1,1,Fair,7,1,Engineer
+Male,BRAC University,3.52,303,101,Computer Science,1,1,Poor,10,1,Software Engineer 
+Male,University of Dhaka,3.17,309,91,Geography,0,1,Satisfactory,9,1,Lecturer
+Male,University of Dhaka,3.5,308,100,Sociology,1,3,Very good,4,1,Job 
+Male,Bangladesh University of Engineering and Technology,3.88,330,117,Civil Engineering,0,15,Satisfactory,5,1,Lecturer
+Male,Shahjalal University of Science and Technology ,3.94,301,93,Business Analytics,0,1,Poor,10,1,Lecturer
+Male,University of Dhaka,3.92,314,105,Computer Science,0,3,Excellent,2,1,Lecturer
+Female,Bangladesh University of Engineering and Technology,3.31,301,109,Civil Engineering,1,2,Excellent,3,1,Safety Engineer
+Male,Islamic University of Technology,3.69,315,98,Computer Science,1,4,Satisfactory,5,1,Software Engineer 
+Male,"Maulana Azad National Institute of Tech0logy, India.",3.67,300,101,Computer Science,1,6,Poor,10,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.79,318,104,Electrical Engineering,1,2,Excellent,1,1,Lecturer
+Male,Military Institute of Science and Technology,3.22,316,90,Computer Science,0,0,Excellent,1,1,Lecturer
+Male,University of Dhaka,3.42,310,97,Geography,0,0,Excellent,3,1,Lecturer
+Male,Islamic University,3.71,302,101,Chemistry ,1,6,Very good,4,1,Lecturer
+Male,University of Dhaka,3.5,301,93,Business Analytics,1,0,Fair,7,1,Government Job
+Female,Ahsanullah University of Science and Technology,3.79,302,98,Computer Science,1,4,Excellent,2,1,Software Engineer 
+Male,Khulna University of Engineering & Technology,3.53,302,90,Mechanical Engineering ,0,1,Satisfactory,5,1,Lecturer
+Male,University of Dhaka,3.6,302,101,Physics ,0,3,Fair,8,1,Lecturer
+Male,Bangladesh University of Professionals,3.5,313,101,Physics ,1,8,Excellent,1,1,Lecturer
+Female,Khulna University of Engineering & Technology,3.53,309,109,Geography,0,2,Fair,8,1,Lecturer
+Male,University of Dhaka,3.82,315,107,Computer Science,1,2,Excellent,1,1,Research Associate 
+Female,Bangladesh University of Engineering and Technology,3.64,306,110,Business Analytics,0,1,Poor,10,1,Lecturer
+Female,Ahsanullah University of Science and Technology,3.5,304,89,Materials Science,0,5,Poor,10,1,Lecturer
+Female,BRAC University,3.78,302,103,Bio Medical,1,0,Excellent,1,1,Research Assistant
+Female,Bangladesh University of Engineering and Technology,3.76,326,116,Business Analytics,1,2,Excellent,1,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.9,314,116,Computer Science,1,1,Excellent,1,1,Lecturer
+Male,Govt. Hazi Mohammad Mohsin College,3.16,302,108,Chemistry ,0,2,Satisfactory,5,1,Lecturer
+Male,Khulna University of Engineering & Technology,2.8,303,109,Mechanical Engineering ,0,5,Satisfactory,4,1,Lecturer
+Female,Bangladesh University of Engineering and Technology,3.68,316,112,Geography,1,6,Excellent,2,1,Research Associate 
+Male,University of Chittagong,3.58,316,93,Materials Science,0,0,Satisfactory,5,1,Lecturer
+Male,Khulna University of Engineering & Technology,2.79,307,84,Computer Science,1,10,Excellent,3,1,Telecommunication Engineer
+Male,Khulna University of Engineering & Technology,3.76,311,88,Electrical Engineering,1,3,Excellent,1,1,Lecturer
+Male,University of Dhaka,3.51,158,101,Chemistry ,0,0,Excellent,2,1,Lecturer
+Female,Bangladesh University of Engineering and Technology,2.98,310,96, Architecture,1,0,Excellent,2,1,Lecturer
+Male,North South University,3.35,312,108,Management,1,3,Excellent,3,1,Research Associate 
+Male,University of Chittagong,3.3,165,90,Chemistry ,1,2,Very good,4,1,Lecturer
+Male,Chittagong University of Engineering & Technology,3.39,312,84,Civil Engineering,0,0,Poor,10,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.52,330,104,Computer Science,1,0,Fair,8,1,Software Engineer 
+Female,Bangladesh University of Engineering and Technology,3.69,313,96,Computer Science,1,0,Excellent,1,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.89,312,105,Computer Science,1,1,Very good,4,1,Lecturer
+Male,American International University Bangladesh,3.38,163,92,Computer Science,1,0,Excellent,1,1,Lecturer
+Male,University of Dhaka,3.78,317,106,Electrical Engineering,0,2,Excellent,3,1,Lecturer
+Female,University of Dhaka,3.42,317,109,Electrical Engineering,0,1,Excellent,1,1,Lecturer
+Male,Khulna University,3.36,157,106,Bio Medical,1,2,Satisfactory,4,1,Lecturer
+Female,University of Dhaka,3.44,311,109,Computer Science,0,0,Very good,4,1,Lecturer
+Female,University of Dhaka,3.47,307,95,Information Systems,1,0,Satisfactory,5,1,Lecturer
+Female,University of Dhaka,3.41,301,114,Computer Science,1,2,Satisfactory,5,1,Lecturer
+Male,Chittagong University of Engineering & Technology,3.7,310,101,Mechanical Engineering ,1,5,Excellent,3,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.5,302,99,Mechanical Engineering ,1,3,Satisfactory,5,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.5,323,101,Mechanical Engineering ,0,2,Very good,3,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.83,318,113,Mechanical Engineering ,1,4,Fair,6,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.68,312,100,Mechanical Engineering ,1,0,Fair,8,1,Lecturer
+Male,University Of Development Alternative,3.9,302,108,Food and Health Nutration,1,5,Satisfactory,5,1,Lecturer
+Male,University of Dhaka,3.77,312,82,Computer Science,0,1,Excellent,2,1,Lecturer
+Female,University of Dhaka,3.37,306,92,Statistics ,0,0,Excellent,1,1,Lecturer
+Male,Bangladesh University of Textiles,3.45,307,104,Materials Science,1,2,Excellent,3,1,Lecturer
+Male,Khulna University,3.57,302,101,Computer Science,0,2,Very good,4,1,Lecturer
+Male,Khulna University of Engineering & Technology,3.27,323,105,Geography,1,0,Excellent,3,1,Lecturer
+Female,University of Dhaka,3.41,314,108,Chemistry ,0,0,Excellent,1,1,Lecturer
+Female,University of Dhaka,3.57,313,114,Statistics ,1,8,Poor,10,0,Research Associate 
+Male,BRAC University,3.42,316,106,Computer Science,1,5,Fair,8,0,Research Associate 
+Male,University of Dhaka,3.49,303,87,Physics ,0,5,Satisfactory,5,0,Lecturer
+Male,University of Dhaka,3.0,316,101,Chemistry ,0,0,Excellent,3,0,Lecturer
+Male,Shahjalal University of Science and Technology ,3.56,308,87,Chemistry ,1,1,Excellent,3,1,Lecturer
+Male,Bangladesh University of Professionals,3.77,161,101,Computer Science,0,3,Excellent,10,0,Lecturer
+Male,Noakhali Science and Technology University,3.3,311,96,Computer Science,0,3,Excellent,10,0,Lecturer
+Male,Khulna University of Engineering & Technology,3.49,312,114,Geography,1,4,Excellent,1,1,Lecturer
+Female,University of Dhaka,4.0,295,101,Communication Studies,1,6,Excellent,3,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.5,314,96,Computer Science,1,5,Excellent,1,0,Lecturer
+Male,National University - Govt. Titumir College,2.91,317,99,Physics ,0,0,Satisfactory,5,1,Lecturer
+Male,University of Dhaka,3.04,310,96,Chemistry ,0,0,Poor,9,0,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.68,312,100,Mechanical Engineering ,1,0,Excellent,1,0,Lecturer
+Male,Military Institute of Science and Technology,3.74,317,114,Electrical Engineering,0,4,Excellent,2,0,Lecturer
+Female,Jahangirnagar University,3.89,302,108,Comparetive studies ,1,7,Poor,9,0,Lecturer
+Female,"Sher-E-Bangla Medical College, Barisal",3.0,306,109,Food and Health Nutration,1,2,Very good,4,0,Lecturer
+Male,North South University,3.3,320,109,Computer Science,1,11,Fair,8,0,Lecturer
+Male,Jahangirnagar University,3.49,328,114,Bio Medical,1,3,Excellent,1,0,Lecturer
+Female,Bangladesh University of Engineering and Technology,3.45,302,88,Intermedia and Digital Arts,1,1,Excellent,1,0,Lecturer
+Female,University of Dhaka,3.46,303,93,Chemistry ,0,0,Excellent,3,0,Lecturer
+Female,Jahangirnagar University,3.54,301,89,Geography,0,0,Excellent,1,0,Lecturer
+Male,Khulna University of Engineering & Technology,2.8,303,109,Mechanical Engineering ,1,3,Very good,4,0,Lecturer
+Female,University of Dhaka,3.34,305,94,Geography,0,1,Excellent,1,0,Lecturer
+Male,University of Dhaka,3.66,311,109,Chemistry ,0,0,Excellent,3,0,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.66,315,114,Bio Medical,1,3,Excellent,1,0,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.51,322,114,Mechanical Engineering ,1,3,Fair,6,0,Lecturer
+Female,Shahjalal University of Science and Technology ,3.48,309,93,Computer Science,1,2,Poor,10,0,Lecturer
+Female,Khulna University of Engineering & Technology,3.12,301,96,Computer Science,1,0,Fair,8,0,Lecturer
+Male,Rajshahi University of Engineering & Technology,3.46,315,104,Electrical Engineering,0,1,Excellent,1,0,Lecturer
+Female,University of Dhaka,3.76,304,92,Food and Health Nutration,0,0,Very good,4,0,Lecturer
+Female,University of Dhaka,3.59,304,100,Food and Health Nutration,1,5,Excellent,1,0,Lecturer
+Male,North South University,3.14,305,109,Computer Science,1,5,Satisfactory,5,0,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.49,311,96,Mechanical Engineering ,0,1,Satisfactory,5,0,Lecturer
+Female,University of Dhaka,3.66,305,89,Food and Health Nutration,1,0,Very good,4,0,Lecturer
+Female,University of Dhaka,3.57,311,108,Chemistry ,0,3,Very good,4,0,Lecturer
+Female,Bangladesh University of Engineering and Technology,3.67,323,109,Physics ,1,2,Satisfactory,7,0,Lecturer
+Female,Khulna University of Engineering & Technology,3.57,300,114,International and Comparative Politics,1,4,Excellent,2,0,Research Associate 
+Female,Jahangirnagar University,3.65,308,82,Computer Science,0,1,Fair,8,0,Lecturer
+Female,Jahangirnagar University,3.22,308,96,Computer Science,0,6,Very good,5,0,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.09,310,101,Bio Medical,1,5,Satisfactory,4,0,Lecturer
+Female,Jahangirnagar University,3.49,301,101,Chemistry ,0,2,Very good,4,0,Lecturer
+Female,Bangladesh University of Textiles,3.78,289,101,Bio Medical,1,4,Satisfactory,6,0,Lecturer
+Male,North South University,3.52,316,89,Computer Science,0,1,Very good,3,0,Lecturer
+Male,Shahjalal University of Science and Technology ,3.66,311,88,Chemistry ,1,3,Very good,4,0,Lecturer
+Female,United International University,3.4,302,114,Bio Medical,0,4,Fair,7,0,Teaching Assistant 
+Male,University of Chittagong,3.7,333,101,Civil Engineering,1,5,Very good,3,0,Lecturer
+Male,University of Science and Technology.,3.32,323,100,Computer Science,0,3,Very good,3,0,Lecturer
+Female,Shahjalal University of Science and Technology ,4.0,299,93,Computer Science,1,1,Very good,4,0,Lecturer
+Male,Stamford University Bangladesh,3.9,165,101,Computer Science,1,2,Satisfactory,5,0,Job
+Male,University of Dhaka,3.19,289,96,Civil Engineering,0,4,Satisfactory,4,0,Lecturer
+Male,Noakhali Science and Technology University,3.55,302,101,Bio Medical,1,3,Fair,8,0,Lecturer
+Male,Jagannath University,3.89,319,114,Materials Science,0,3,Very good,3,0,Lecturer
+Male,Khulna University of Engineering & Technology,3.55,301,101,Civil Engineering,1,1,Excellent,1,0,Lecturer
+Male,Shahjalal University of Science and Technology ,3.4,301,114,Computer Science,1,3,Fair,10,1,Software Engineer 
+Male,Pusan National University,3.78,217,109,Bio Medical,0,1,Excellent,1,1,Lecturer
+Female,Mawlana Bhashani Science and Technology University,3.84,302,88,Computer Science,0,2,Satisfactory,4,0,Lecturer
+Male,Shahjalal University of Science and Technology ,3.22,333,100,Mechanical Engineering ,1,3,Very good,3,0,Lecturer
+Male,Islamic University of Technology,3.18,315,98,Computer Science,1,3,Satisfactory,5,0,Software Engineer 
+Female,University of Dhaka,3.89,301,114,Informatics,1,3,Very good,4,1,Lecturer
+Female,Rajshahi University of Engineering & Technology,4.0,333,100,Chemistry ,0,4,Very good,4,0,Lecturer
+Female,University of Dhaka,3.8,298,101,Bio Medical,0,3,Fair,8,1,Lecturer
+Male,Khulna University of Engineering & Technology,3.77,301,90,Mechanical Engineering ,1,1,Very good,4,1,Lecturer
+Male,North South University,4.0,301,109,Geography,0,0,Satisfactory,5,1,Lecturer
+Female,Stamford University Bangladesh,3.0,309,111,Business Analytics,0,3,Satisfactory,4,1,Lecturer
+Female,University of Dhaka,3.77,333,90,Computer Science,1,4,Satisfactory,5,1,Lecturer
+Male,Ahsanullah University of Science and Technology,3.69,277,100,Civil Engineering,1,3,Very good,3,1,Lecturer
+Male,University of Dhaka,3.66,279,109,Informatics,1,4,Excellent,1,1,Lecturer
+Male,University of Development Alternative,3.9,310,114,Chemistry ,1,1,Very good,3,1,Lecturer
+Male,Rajshahi University of Engineering & Technology,3.7,290,100,Sociology,1,2,Satisfactory,5,1,Lecturer
+Male,University of Dhaka,3.55,318,89,Computer Science,1,4,Very good,3,1,Lecturer
+Male,North South University,3.2,323,90,Mechanical Engineering ,0,0,Very good,2,1,Lecturer
+Male,Shahjalal University of Science and Technology ,3.77,305,111,Business Analytics,1,1,Fair,8,1,Lecturer
+Female,Chittagong University of Engineering & Technology,3.45,289,109,Industrial Management and Systems Engineering,1,4,Very good,4,1,Lecturer
+Male,Khulna University of Engineering & Technology,3.88,299,90,Computer Science,1,3,Excellent,1,1,Lecturer
+Female,Shahjalal University of Science and Technology ,3.5,320,114,Computer Science,1,2,Satisfactory,4,1,Lecturer
+Male,University of Dhaka,3.44,280,93,Statistics ,1,2,Satisfactory,5,1,Lecturer
+Male,University of Dhaka,3.51,158,101,Chemistry ,0,0,Excellent,2,1,Lecturer
+Female,Bangladesh University of Engineering and Technology,2.98,310,96, Architecture,1,0,Excellent,2,1,Lecturer
+Male,North South University,3.35,312,108,Management,1,3,Excellent,3,1,Research Associate 
+Male,University of Chittagong,3.3,165,90,Chemistry ,1,2,Very good,4,1,Lecturer
+Male,Chittagong University of Engineering & Technology,3.39,312,84,Civil Engineering,0,0,Poor,10,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.52,330,104,Computer Science,1,0,Fair,8,1,Software Engineer 
+Female,Bangladesh University of Engineering and Technology,3.69,313,96,Computer Science,1,0,Excellent,1,1,Lecturer
+Male,Bangladesh University of Engineering and Technology,3.89,312,105,Computer Science,1,1,Very good,4,1,Lecturer
